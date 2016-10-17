@@ -77,3 +77,13 @@ with open("relevance.txt", "w") as relevance_file:
     relevance_file.write("Meta\n")
     relevance_file.write(str(meta) + "\n\n")
 
+
+from nltk import ngrams
+
+def summarize(name, text):
+    unigrams = ngrams(sentence.split(), 1)
+    bigrams = ngrams(sentence.split(), 2)
+    trigrams = ngrams(sentence.split(), 3)
+    quadgrams = ngrams(sentence.split(), 4)
+    with open("tokenized_files/" + name + ".txt", "w") as tokenized_file:
+        tokenized_file.write(unigrams + "\n\n" + bigrams + "\n\n" + trigrams + "\n\n" + quadgrams)
