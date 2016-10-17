@@ -1,0 +1,377 @@
+
+BIO 1A:
+	Bioengineering (BIO ENG) 131 - Introduction to Computational Molecular and Cell Biology <Applied>
+
+CHEM 1A:
+	Molecular and Cell Biology (MCELLBI) 166 - Biophysical Neurobiology <Applied>
+
+CHEM 3A/3AL - CHEM 3B/3BL:
+	Molecular and Cell Biology (MCELLBI) 166 - Biophysical Neurobiology <Applied>
+
+COG SCI 1:
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+
+CS 188:
+	Computer Science (COMPSCI) 189 - Introduction to Machine Learning <Foundational>
+
+CS 61C:
+	Computer Science (COMPSCI) 194-16 - Introduction to Data Science <Foundational>
+	Computer Science (COMPSCI) 186 - Introduction to Database Systems <Foundational>
+
+CS 70:
+	Computer Science (COMPSCI) 194-16 - Introduction to Data Science <Foundational>
+	Computer Science (COMPSCI) 189 - Introduction to Machine Learning <Foundational>
+	Electrical Engineering (EL ENG) 144 - Fundamental Algorithms for Systems Modeling, Analysis, and Optimization <Foundational>
+	Computer Science (COMPSCI) 188 - Introduction to Artificial Intelligence <Foundational>
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+
+E 28:
+	Mechanical Engineering (MEC ENG) 102A - Introduction to Mechanical Systems for Mechatronics <Applied>
+
+ECON 100B or ECON 101A:
+	Economics (ECON) 140 - Economic Statistics and Econometrics <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+
+ECON 101B:
+	Economics (ECON) 140 - Economic Statistics and Econometrics <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+
+EE 16B:
+	Electrical Engineering (EL ENG) 126 - Probability and Random Processes <Foundational>
+
+ENG R1A:
+	Mechanical Engineering (MEC ENG) 102A - Introduction to Mechanical Systems for Mechatronics <Applied>
+
+IEOR 165:
+	Industrial Engineering and Operations Research (IND ENG) 131 - Discrete Event Simulation <Foundational>
+
+LINGUIS 115:
+	Linguistics (LINGUIS) 140 - Introduction to Field Methods <Applied>
+
+MATH 128A - MATH 128B:
+	Engineering (ENGIN) 180A - Computational Engineering Science Modeling and Simulation I/II <Foundational>
+
+MATH 170A - MATH 170B:
+	Engineering (ENGIN) 180A - Computational Engineering Science Modeling and Simulation I/II <Foundational>
+
+MATH 55:
+	Mathematics (MATH) 127 - Mathematical and Computational Methods in Molecular Biology <Applied>
+	Computer Science (COMPSCI) 188 - Introduction to Artificial Intelligence <Foundational>
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+	Statistics (STAT) 154 - Modern Statistical Prediction and Machine Learning <Foundational>
+
+MEC ENG C85 or CIV ENG C30:
+	Mechanical Engineering (MEC ENG) 102A - Introduction to Mechanical Systems for Mechatronics <Applied>
+
+NUSCTX 120:
+	Nutritional Sciences and Toxicology (NUSCTX) 121 - Computational Toxicology <Applied>
+
+PHYS 7A:
+	Physics (PHYSICS) 77 - Introduction to Computational Techniques in Physics <Applied>
+
+PHYS 8A - PHYS 8B:
+	Molecular and Cell Biology (MCELLBI) 166 - Biophysical Neurobiology <Applied>
+
+SOC 3:
+	Sociology (SOCIOL) 7 - The Power of Numbers: Quantitative Data in Social Sciences <Applied>
+	Demography (DEMOG) C126 - Social Consequences of Population Dynamics <Applied>
+
+STAT 135:
+	Statistics (STAT) 154 - Modern Statistical Prediction and Machine Learning <Foundational>
+	Statistics (STAT) 159 - Reproducible and Collaborative Data Science <Foundational>
+	Statistics (STAT) 152 - Sampling Surveys <Foundational>
+	Statistics (STAT) 158 - The Design and Analysis of Experiments <Foundational>
+	Statistics (STAT) 153 - Time Series <Foundational>
+	Statistics (STAT) 151A - Linear Modeling: Theory and Applications <Applied>
+
+declared Environmental Sciences majors.:
+	Environmental Science, Policy, and Management (ESPM) 100 - Introduction to the Methods of Environmental Science <Applied>
+
+ANTHRO 2:
+	Anthropology (ANTHRO) 169A - Data Analysis and Computational Methods <Applied>
+
+ANTHRO 3:
+	Anthropology (ANTHRO) 169B - Research Theory and Methods in Socio-Cultural Anthropology <Applied>
+
+ARCH 150:
+	Architecture (ARCH) 154 - Design and Computer Analysis of Structure <Applied>
+
+ASAMST 20A or 20B:
+	Asian American Studies Program (ASAMST) 165 - Research Methodologies in Asian American Communities <Applied>
+
+BIO 1A/1AL:
+	Molecular and Cell Biology (MCELLBI) 166 - Biophysical Neurobiology <Applied>
+
+CS 10:
+	Computer Science (COMPSCI) 9A - Matlab for Programmers <Applied>
+
+CS 61A:
+	Computer Science (COMPSCI) 188 - Introduction to Artificial Intelligence <Foundational>
+	Computer Science (COMPSCI) 194-16 - Introduction to Data Science <Foundational>
+	Computer Science (COMPSCI) 61B - Data Structures <Foundational>
+	Computer Science (COMPSCI) 9C - C for Programmers <Applied>
+	Mechanical Engineering (MEC ENG) C180 - Engineering Analysis Using the Finite Element Method <Applied>
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+	Linguistics (LINGUIS) 158 - Computational Linguistics <Applied>
+
+CS 61B:
+	Computer Science (COMPSCI) 186 - Introduction to Database Systems <Foundational>
+	Computer Science (COMSCI) 61C - Machine Structures <Applied>
+	Computer Science (COMPSCI) 188 - Introduction to Artificial Intelligence <Foundational>
+	Computer Science (COMPSCI) 194-16 - Introduction to Data Science <Foundational>
+
+Completion of upper division statistics:
+	Environmental Science, Policy, and Management (ESPM) 100 - Introduction to the Methods of Environmental Science <Applied>
+
+Consent of instructor:
+	Mathematics (MATH) 191 - Experimental Courses in Mathematics <Applied>
+
+DATA 8:
+	Environmental Science, Policy, and Management (ESPM) 88B - Data Sciences in Ecology and the Environment <Applied>
+	Environmental Science, Policy, and Management (ESPM) 88A - Exploring Geospatial Data <Applied>
+	Computer Science (COMPSCI) 88 - Computational Structures in Data Science <Applied>
+	Civil and Environmental Engineering (CIV ENG) 88 - Data Science for Smart Cities <Applied>
+	History (HIST) 88 - How Does History Count? <Applied>
+	Statistics (STAT) 89A - Introduction to Matrices and Graphs in Data Science <Foundational>
+	Statistics (STAT) 88 - Probability and Mathematical Statistics in Data Science <Foundational>
+	Cognitive Science (COG SCI) 88 - Data Science and the Mind <Applied>
+	Information (INFO) 88 - Data and Ethics <Meta>
+	Letters and Science (L & S) 88-1 - Health, Human Behavior, and Data <Applied>
+	Letters and Science (L & S) 88-2 - Literature and Data <Applied>
+
+DS H195 in following semester:
+	International and Area Studies (IAS) 102 - Scope and Methods of Research in International and Area Studies <Applied>
+
+E 10:
+	Mechanical Engineering (MEC ENG) 102A - Introduction to Mechanical Systems for Mechatronics <Applied>
+
+E 7:
+	Engineering (ENGIN) 177 - Advanced Programming with MATLAB <Applied>
+	Civil and Environmental Engineering (CIV ENG) 93 - Engineering Data Analysis <Applied>
+	Engineering (ENGIN) 180A - Computational Engineering Science Modeling and Simulation I/II <Foundational>
+	Engineering (ENGIN) 170 - Introduction to Modeling and Simulation <Foundational>
+	Mechanical Engineering (MEC ENG) C180 - Engineering Analysis Using the Finite Element Method <Applied>
+
+ECON 1 or ECON 2:
+	Economics (ECON) C175 - Economic Demography <Applied>
+	Demography (DEMOG) C175 - Economic Demography <Applied>
+
+ECON 100A:
+	Economics (ECON) 140 - Economic Statistics and Econometrics <Applied>
+	Economics (ECON) 174 - Global Poverty and Impact Evaluation <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+	Environmental Economics and Policy (ENVECON) 131 - Globalization and the Natural Environment <Applied>
+
+ECON 140 or ECON 141 or consent of instructor:
+	Economics (ECON) C142 - Applied Econometrics and Public Policy <Applied>
+
+EE 120 or consent of instructor:
+	Electrical Engineering (EL ENG) 129 - Neural and Nonlinear Information Processing <Applied>
+
+EE 16A:
+	Electrical Engineering (EL ENG) 126 - Probability and Random Processes <Foundational>
+
+EE20:
+	Electrical Engineering (EL ENG) 144 - Fundamental Algorithms for Systems Modeling, Analysis, and Optimization <Foundational>
+
+ENVECON 1 or consent of instructor:
+	Environmental Economics and Policy (ENVECON) 140AC - Economics of Race, Agriculture, and the Environment <Applied>
+
+IEOR 161:
+	Industrial Engineering and Operations Research (IND ENG) 131 - Discrete Event Simulation <Foundational>
+
+LINGUIS 100 or graduate student standing:
+	Cognitive Science (COG SCI) C140 - Quantitative Methods in Linguistics <Applied>
+
+LINGUIS 110:
+	Linguistics (LINGUIS) 140 - Introduction to Field Methods <Applied>
+
+LINGUIS 120:
+	Linguistics (LINGUIS) 158 - Computational Linguistics <Applied>
+
+LINGUIS 5 or LINGUIS 100:
+	Linguistics (LINGUIS) 141 - Empiricism and Linguistics <Applied>
+
+MASSCOM 10:
+	Mass Communications (MASSCOM) 130 - Research Methods in Media Studies <Applied>
+	Media Studies (MEDIAST) 130 - Research Methods in Media Studies <Applied>
+
+MATH 1A:
+	Computer Science (COMPSCI) 61A - Structure and Interpretation of Computer Programs <Foundational>
+	Statistics (STAT) 134 - Concepts of Probability <Foundational>
+	Statistics (STAT) 20 - Introduction to Probability and Statistics <Foundational>
+	Earth and Planetary Science (EPS) 109 - Computer Simulations in Earth and Planetary Sciences <Applied>
+	Physics (PHYSICS) 77 - Introduction to Computational Techniques in Physics <Applied>
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 172 - Probability and Risk Analysis for Engineers <Applied>
+	Statistics (STAT) 131A - Introduction to Probability and Statistics for Life Scientists <Foundational>
+	Public Health (PB HLTH) 140 - Introduction to Risk and Demographic Statistics <Applied>
+
+MATH 1B:
+	Engineering (ENGIN) 7 - Introduction to Computer Programming for Scientists and Engineers <Applied>
+	Mathematics (MATH) 54 - Linear Algebra and Differential Equations <Foundational>
+	Industrial Engineering and Operations Research (IND ENG) 172 - Probability and Risk Analysis for Engineers <Applied>
+	Undergraduate Business Administration (UGBA) 104 - Analytic Decision Modeling Using Spreadsheets <Applied>
+	Undergraduate Business Administration (UGBA) 143 - Game Theory and Business Decisions <Applied>
+	Statistics (STAT) 134 - Concepts of Probability <Foundational>
+	Cognitive Science (COG SCI) 131 - Computational Models of Cognition <Applied>
+	Public Health (PB HLTH) 140 - Introduction to Risk and Demographic Statistics <Applied>
+
+MATH 53:
+	Bioengineering (BIO ENG) 143 - Computational Methods in Biology <Applied>
+	Mathematics (MATH) 127 - Mathematical and Computational Methods in Molecular Biology <Applied>
+	Computer Science (COMPSCI) 189 - Introduction to Machine Learning <Foundational>
+	Economics (ECON) C103 - Introduction to Mathematical Economics <Applied>
+	Engineering (ENGIN) 117 - Methods of Engineering Analysis <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 162 - Linear Programming and Network Flows <Applied>
+	Mathematics (MATH) 170 - Mathematical Methods for Optimization <Foundational>
+	Mathematics (MATH) 128A - Numerical Analysis <Foundational>
+	Statistics (STAT) 154 - Modern Statistical Prediction and Machine Learning <Foundational>
+	Earth and Planetary Science (EPS) 104 - Mathematical Methods in Geophysics <Applied>
+	Engineering (ENGIN) 177 - Advanced Programming with MATLAB <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+	Engineering (ENGIN) 170 - Introduction to Modeling and Simulation <Foundational>
+	Mechanical Engineering (MEC ENG) C180 - Engineering Analysis Using the Finite Element Method <Applied>
+
+MATH 54:
+	Bioengineering (BIO ENG) 131 - Introduction to Computational Molecular and Cell Biology <Applied>
+	Electrical Engineering (EL ENG) 127 - Optimization Models in Engineering <Applied>
+	Bioengineering (BIO ENG) 143 - Computational Methods in Biology <Applied>
+	Mathematics (MATH) 127 - Mathematical and Computational Methods in Molecular Biology <Applied>
+	Computer Science (COMPSCI) 189 - Introduction to Machine Learning <Foundational>
+	Engineering (ENGIN) 177 - Advanced Programming with MATLAB <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+	Economics (ECON) C103 - Introduction to Mathematical Economics <Applied>
+	Engineering (ENGIN) 170 - Introduction to Modeling and Simulation <Foundational>
+	Engineering (ENGIN) 117 - Methods of Engineering Analysis <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 162 - Linear Programming and Network Flows <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 130 - Methods of Manufacturing Improvement <Applied>
+	Mechanical Engineering (MEC ENG) C180 - Engineering Analysis Using the Finite Element Method <Applied>
+	Mathematics (MATH) 170 - Mathematical Methods for Optimization <Foundational>
+	Mathematics (MATH) 128A - Numerical Analysis <Foundational>
+	Statistics (STAT) 135 - Concepts of Statistics <Foundational>
+	Statistics (STAT) 154 - Modern Statistical Prediction and Machine Learning <Foundational>
+	Earth and Planetary Science (EPS) 104 - Mathematical Methods in Geophysics <Applied>
+
+ME C85:
+	Mechanical Engineering (MEC ENG) 120 - Computational Biomechanics Across Multiple Scales <Applied>
+
+NATAMST 71:
+	Native American Studies (NATAMST) 110 - Theories and Methods in Native American Studies <Applied>
+
+NUC ENG 101:
+	Nuclear Engineering (NUC ENG) 130 - Analytical Methods for Non-proliferation <Applied>
+
+NUSCTX 103:
+	Nutritional Sciences and Toxicology (NUSCTX) 170 - Experimental Nutrition Laboratory <Applied>
+
+NUSCTX 110:
+	Nutritional Sciences and Toxicology (NUSCTX) 121 - Computational Toxicology <Applied>
+
+None:
+	Environmental Science, Policy, and Management (ESPM) C177 - GIS and Environmental Spatial Data Analysis <Applied>
+	Geography (GEOG) 187 - Geographic Information Analysis <Applied>
+	Molecular and Cell Biology (MCELLBI) 137 - Computer Simulation in Biology <Applied>
+	Molecular and Cell Biology (MCELLBI) C148 - Microbial Genomics and Genetics <Applied>
+	Public Health (PB HLTH) 141 - Introduction to Biostatistics <Applied>
+	Public Health (PB HLTH) 142 - Introduction to Probability and Statistics in Biology and Public Health <Applied>
+	Information (INFO) 155 - Introduction to High-Level Programming <Applied>
+	Mathematics (MATH) 98 - Introduction to MATLAB programming <Applied>
+	Environmental Economics and Policy (ENVECON) C180 - Ecological Economics in Historical Context <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 115 - Databases <Foundational>
+	Interdisciplinary Studies Field Major (ISF) C145 - GIS and Environmental Spatial Data Analysis <Applied>
+	American Studies (AMERSTD) C134 - Information Technology and Society <Applied>
+	Statistics (STAT) 133 - Concepts of Computing with Data <Foundational>
+	Computer Science (COMPSCI) C8 - Foundations of Data Science <Foundational>
+	Demography (DEMOG) 5 - Fundamentals of Population Science <Applied>
+	Demography (DEMOG) C164 - Impact of Government Policies on Poor Children and Families <Applied>
+	Demography (DEMOG) 110 - Introduction to Population Analysis <Applied>
+	Environmental Design (ENV DES) 4B - Global Cities <Applied>
+	Environmental Design (ENV DES) 100 - The City: Theories and Methods in Urban Studies <Applied>
+	Environmental Science, Policy, and Management (ESPM) 173 - Introduction to Ecological Data Analysis <Applied>
+	Sociology (SOCIOL) 5 - Evaluation of Evidence <Applied>
+	Anthropology (ANTHRO) 169C - Research Theory and Methods in Linguistic Anthropology <Applied>
+
+One course in philosophy.:
+	Philosophy (PHILOS) 141 - Philosophy and Game Theory <Applied>
+
+PB HLTH 142:
+	Public Health (PB HLTH) 145 - Statistical Analysis of Continuous Outcome Data <Applied>
+	Public Health (PB HLTH) 144A - Introduction to SAS Programming <Applied>
+	Public Health (PB HLTH) 144B - Introduction to SAS Programming <Applied>
+
+PHILOS 2:
+	Philosophy (PHILOS) 100 - Philosophical Methods <Applied>
+
+PHILOS 4:
+	Philosophy (PHILOS) 100 - Philosophical Methods <Applied>
+
+PSYCH 1:
+	Psychology (PSYCH) 10 - Research and Data Analysis in Psychology <Applied>
+	Psychology (PSYCH) 101 - Research and Data Analysis in Psychology <Applied>
+
+Prerequisites:
+	Course Dept Course # - Course Name <Foundational>
+
+SOC 1:
+	Sociology (SOCIOL) 7 - The Power of Numbers: Quantitative Data in Social Sciences <Applied>
+	Demography (DEMOG) C126 - Social Consequences of Population Dynamics <Applied>
+
+SOC 5:
+	Sociology (SOCIOL) 108 - Advanced Methods: In-depth Interviewing <Applied>
+	Sociology (SOCIOL) 106 - Quantitative Sociological Methods <Applied>
+	Sociology (SOCIOL) 105 - Research Design and Sociological Methods <Applied>
+
+STAT 101:
+	Statistics (STAT) 153 - Time Series <Foundational>
+	Statistics (STAT) 152 - Sampling Surveys <Foundational>
+
+STAT 133:
+	Statistics (STAT) 159 - Reproducible and Collaborative Data Science <Foundational>
+	Statistics (STAT) 135 - Concepts of Statistics <Foundational>
+	Statistics (STAT) 151A - Linear Modeling: Theory and Applications <Applied>
+	Statistics (STAT) 152 - Sampling Surveys <Foundational>
+	Statistics (STAT) 158 - The Design and Analysis of Experiments <Foundational>
+	Statistics (STAT) 153 - Time Series <Foundational>
+
+STAT 134:
+	Statistics (STAT) 135 - Concepts of Statistics <Foundational>
+	Statistics (STAT) 158 - The Design and Analysis of Experiments <Foundational>
+	Industrial Engineering and Operations Research (IND ENG) 165 - Engineering Statistics, Quality Control, Forecasting <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 130 - Methods of Manufacturing Improvement <Applied>
+	Industrial Engineering and Operations Research (IND ENG) 131 - Discrete Event Simulation <Foundational>
+	Statistics (STAT) 152 - Sampling Surveys <Foundational>
+	Statistics (STAT) 159 - Reproducible and Collaborative Data Science <Foundational>
+	Statistics (STAT) 153 - Time Series <Foundational>
+
+STAT 2:
+	Environmental Economics and Policy (ENVECON) C118 - Introductory Applied Econometrics <Applied>
+	African American Studies (AFRICAM) 101 - Research Methods for African American Studies <Applied>
+	Mathematics (MATH) 127 - Mathematical and Computational Methods in Molecular Biology <Applied>
+	Nutritional Sciences and Toxicology (NUSCTX) 170 - Experimental Nutrition Laboratory <Applied>
+	Economics (ECON) 174 - Global Poverty and Impact Evaluation <Applied>
+	Economics (ECON) 141 - Econometric Analysis <Applied>
+	Economics (ECON) 140 - Economic Statistics and Econometrics <Applied>
+	Undergraduate Business Administration (UGBA) 104 - Analytic Decision Modeling Using Spreadsheets <Applied>
+	Undergraduate Business Administration (UGBA) 143 - Game Theory and Business Decisions <Applied>
+	Psychology (PSYCH) 10 - Research and Data Analysis in Psychology <Applied>
+	Psychology (PSYCH) 101 - Research and Data Analysis in Psychology <Applied>
+
+Sophomore mathematical maturity:
+	Computer Science (COMPSCI) 70 - Discrete Mathematics and Probability Theory <Foundational>
+
+UBGA 120A:
+	Undergraduate Business Administration (UGBA) 122 - Financial Information Analysis <Applied>
+
+UGBA 106:
+	Undergraduate Business Administration (UGBA) 161 - Marketing Research: Tools and Techniques for Data Collection and Analysis <Applied>
+
+Upper division standing:
+	Civil and Environmental Engineering (CIV ENG) 193 - Engineering Risk Analysis <Applied>
+	Engineering (ENGIN) 120 - Principles of Engineering Economics <Applied>
+	Nuclear Engineering (NUC ENG) 175 - Methods of Risk Analysis <Applied>
+	Middle Eastern Studies (M E STU) 102 - Scope and Methods of Research in Middle Eastern Studies <Applied>
+	Engineering (ENGIN) 177 - Advanced Programming with MATLAB <Applied>
+	Engineering (ENGIN) 180A - Computational Engineering Science Modeling and Simulation I/II <Foundational>
+	Engineering (ENGIN) 170 - Introduction to Modeling and Simulation <Foundational>
+	Mechanical Engineering (MEC ENG) C180 - Engineering Analysis Using the Finite Element Method <Applied>
