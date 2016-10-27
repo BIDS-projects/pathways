@@ -1,0 +1,19 @@
+['STAT 2']
+	African American Studies (AFRICAM) 101
+American Studies (AMERSTD) C134
+['ASAMST 20A or 20B']
+	Asian American Studies Program (ASAMST) 165
+['DATA 8']
+	History (HIST) 88
+['MASSCOM 10']
+	Mass Communications (MASSCOM) 130
+['MASSCOM 10']
+	Media Studies (MEDIAST) 130
+['Upper division standing']
+	Middle Eastern Studies (M E STU) 102
+['NATAMST 71']
+	Native American Studies (NATAMST) 110
+['PHILOS 2', 'PHILOS 4']
+	Philosophy (PHILOS) 100
+['One course in philosophy.']
+	Philosophy (PHILOS) 141

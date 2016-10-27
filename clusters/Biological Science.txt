@@ -1,13 +1,13 @@
 Biological Science
-	Bioengineering (BIO ENG) 143
 	Bioengineering (BIO ENG) 131
-	Environmental Science, Policy, and Management (ESPM) 88B
+	Bioengineering (BIO ENG) 143
 	Environmental Science, Policy, and Management (ESPM) 88A
+	Environmental Science, Policy, and Management (ESPM) 88B
 	Environmental Science, Policy, and Management (ESPM) C177
 	Geography (GEOG) 187
 	Mathematics (MATH) 127
-	Molecular and Cell Biology (MCELLBI) 166
 	Molecular and Cell Biology (MCELLBI) 137
+	Molecular and Cell Biology (MCELLBI) 166
 	Molecular and Cell Biology (MCELLBI) C148
 	Nutritional Sciences and Toxicology (NUSCTX) 121
 	Nutritional Sciences and Toxicology (NUSCTX) 170

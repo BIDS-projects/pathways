@@ -1,0 +1,6 @@
+['MATH 53', 'MATH 54']
+	Earth and Planetary Science (EPS) 104
+['MATH 1A']
+	Earth and Planetary Science (EPS) 109
+[' PHYS 7A', 'MATH 1A']
+	Physics (PHYSICS) 77

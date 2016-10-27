@@ -1,0 +1,94 @@
+['MATH 53', 'MATH 54']
+	Mathematics (MATH) 128A
+	Engineering (ENGIN) 180A
+['MATH 53', 'MATH 54']
+	Mathematics (MATH) 170
+	Engineering (ENGIN) 180A
+['Consent of instructor']
+	Mathematics (MATH) 191
+['MATH 1B']
+	Mathematics (MATH) 54
+	Bioengineering (BIO ENG) 131
+	Bioengineering (BIO ENG) 143
+	Mathematics (MATH) 127
+	Computer Science (COMPSCI) 189
+	Engineering (ENGIN) 177
+	Economics (ECON) 141
+		Economics (ECON) C142
+	Economics (ECON) C103
+	Engineering (ENGIN) 170
+	Engineering (ENGIN) 117
+	Industrial Engineering and Operations Research (IND ENG) 162
+	Industrial Engineering and Operations Research (IND ENG) 130
+	Mechanical Engineering (MEC ENG) C180
+	Mathematics (MATH) 170
+		Engineering (ENGIN) 180A
+	Mathematics (MATH) 128A
+		Engineering (ENGIN) 180A
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 154
+	Earth and Planetary Science (EPS) 104
+	Electrical Engineering (EL ENG) 127
+['PB HLTH 142']
+	Public Health (PB HLTH) 145
+['MATH 1A']
+	Statistics (STAT) 131A
+Statistics (STAT) 133
+	Statistics (STAT) 159
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 151A
+	Statistics (STAT) 152
+	Statistics (STAT) 158
+	Statistics (STAT) 153
+['MATH 1A', 'MATH 1B']
+	Statistics (STAT) 134
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 158
+	Statistics (STAT) 152
+	Statistics (STAT) 159
+	Statistics (STAT) 153
+	Industrial Engineering and Operations Research (IND ENG) 131
+	Industrial Engineering and Operations Research (IND ENG) 165
+	Industrial Engineering and Operations Research (IND ENG) 130
+['MATH 54', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 135
+	Statistics (STAT) 154
+	Statistics (STAT) 159
+	Statistics (STAT) 152
+	Statistics (STAT) 158
+	Statistics (STAT) 151A
+	Statistics (STAT) 153
+[' STAT 135', 'STAT 133']
+	Statistics (STAT) 151A
+[' STAT 135', 'STAT 101', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 152
+[' STAT 135', 'STAT 101', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 153
+[' MATH 55', ' STAT 135', 'MATH 53', 'MATH 54']
+	Statistics (STAT) 154
+[' STAT 135', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 158
+[' STAT 135', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 159
+['DATA 8']
+	Statistics (STAT) 88
+['DATA 8']
+	Statistics (STAT) 89A

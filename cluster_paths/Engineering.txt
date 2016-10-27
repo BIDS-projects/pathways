@@ -1,0 +1,47 @@
+['ARCH 150']
+	Architecture (ARCH) 154
+['Upper division standing']
+	Civil and Environmental Engineering (CIV ENG) 193
+['DATA 8']
+	Civil and Environmental Engineering (CIV ENG) 88
+['E 7']
+	Civil and Environmental Engineering (CIV ENG) 93
+[' EE 16B', 'EE 16A']
+	Electrical Engineering (EL ENG) 126
+['MATH 54']
+	Electrical Engineering (EL ENG) 127
+['EE 120 or consent of instructor']
+	Electrical Engineering (EL ENG) 129
+[' CS 70', 'EE20']
+	Electrical Engineering (EL ENG) 144
+['MATH 53', 'MATH 54']
+	Engineering (ENGIN) 117
+['Upper division standing']
+	Engineering (ENGIN) 120
+['E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Engineering (ENGIN) 170
+[' MATH 128A - MATH 128B', ' MATH 170A - MATH 170B', 'E 7', 'Upper division standing']
+	Engineering (ENGIN) 180A
+['MATH 1B']
+	Engineering (ENGIN) 7
+Industrial Engineering and Operations Research (IND ENG) 115
+['MATH 54', 'STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 130
+[' IEOR 165', 'IEOR 161', 'STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 131
+['MATH 53', 'MATH 54']
+	Industrial Engineering and Operations Research (IND ENG) 162
+['STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 165
+['MATH 1A', 'MATH 1B']
+	Industrial Engineering and Operations Research (IND ENG) 172
+[' E 28', ' ENG R1A', ' MEC ENG C85 or CIV ENG C30', 'E 10']
+	Mechanical Engineering (MEC ENG) 102A
+['ME C85']
+	Mechanical Engineering (MEC ENG) 120
+['CS 61A', 'E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Mechanical Engineering (MEC ENG) C180
+['NUC ENG 101']
+	Nuclear Engineering (NUC ENG) 130
+['Upper division standing']
+	Nuclear Engineering (NUC ENG) 175

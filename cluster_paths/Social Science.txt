@@ -1,0 +1,51 @@
+[' COG SCI 1', ' CS 70', ' MATH 55', 'CS 61A', 'MATH 1A', 'MATH 1B']
+	Cognitive Science (COG SCI) 131
+['DATA 8']
+	Cognitive Science (COG SCI) 88
+['LINGUIS 100 or graduate student standing']
+	Cognitive Science (COG SCI) C140
+Demography (DEMOG) 110
+Demography (DEMOG) 5
+[' SOC 3', 'SOC 1']
+	Demography (DEMOG) C126
+Demography (DEMOG) C164
+['ECON 1 or ECON 2']
+	Demography (DEMOG) C175
+Environmental Design (ENV DES) 100
+Environmental Design (ENV DES) 4B
+[' declared Environmental Sciences majors.', 'Completion of upper division statistics']
+	Environmental Science, Policy, and Management (ESPM) 100
+Environmental Science, Policy, and Management (ESPM) 173
+['DATA 8']
+	Information (INFO) 88
+['DS H195 in following semester']
+	International and Area Studies (IAS) 102
+['DATA 8']
+	Letters and Science (L & S) 88-1
+['DATA 8']
+	Letters and Science (L & S) 88-2
+[' LINGUIS 115', 'LINGUIS 110']
+	Linguistics (LINGUIS) 140
+['LINGUIS 5 or LINGUIS 100']
+	Linguistics (LINGUIS) 141
+['CS 61A', 'LINGUIS 120']
+	Linguistics (LINGUIS) 158
+['PSYCH 1', 'STAT 2']
+	Psychology (PSYCH) 10
+['PSYCH 1', 'STAT 2']
+	Psychology (PSYCH) 101
+['MATH 1A', 'MATH 1B']
+	Public Health (PB HLTH) 140
+['PB HLTH 142']
+	Public Health (PB HLTH) 144A
+['PB HLTH 142']
+	Public Health (PB HLTH) 144B
+['SOC 5']
+	Sociology (SOCIOL) 105
+['SOC 5']
+	Sociology (SOCIOL) 106
+['SOC 5']
+	Sociology (SOCIOL) 108
+Sociology (SOCIOL) 5
+[' SOC 3', 'SOC 1']
+	Sociology (SOCIOL) 7

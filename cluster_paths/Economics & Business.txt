@@ -1,0 +1,29 @@
+[' ECON 100B or ECON 101A', ' ECON 101B', 'ECON 100A', 'STAT 2']
+	Economics (ECON) 140
+	Economics (ECON) C142
+[' ECON 100B or ECON 101A', ' ECON 101B', 'ECON 100A', 'MATH 53', 'MATH 54', 'STAT 2']
+	Economics (ECON) 141
+	Economics (ECON) C142
+['ECON 100A', 'STAT 2']
+	Economics (ECON) 174
+['MATH 53', 'MATH 54']
+	Economics (ECON) C103
+['ECON 140 or ECON 141 or consent of instructor']
+	Economics (ECON) C142
+['ECON 1 or ECON 2']
+	Economics (ECON) C175
+['ECON 100A']
+	Environmental Economics and Policy (ENVECON) 131
+['ENVECON 1 or consent of instructor']
+	Environmental Economics and Policy (ENVECON) 140AC
+['STAT 2']
+	Environmental Economics and Policy (ENVECON) C118
+Environmental Economics and Policy (ENVECON) C180
+['MATH 1B', 'STAT 2']
+	Undergraduate Business Administration (UGBA) 104
+['UBGA 120A']
+	Undergraduate Business Administration (UGBA) 122
+['MATH 1B', 'STAT 2']
+	Undergraduate Business Administration (UGBA) 143
+['UGBA 106']
+	Undergraduate Business Administration (UGBA) 161

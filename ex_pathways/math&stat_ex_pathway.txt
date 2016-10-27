@@ -1,0 +1,27 @@
+Mathematics&Statistics
+	MATH 1A
+		MATH 1B
+			Mathematics (MATH) 54
+			STATISTICS 133
+				STATISTICS 151A - Linear Modeling: Theory and Applications
+			STATISTICS 133 OR 134
+				STATISTICS 135 - Concepts of Statistics
+				STATISTICS 152 - Sampling Surveys
+				STATISTICS 153 - Time Series
+				STATISTICS 158 - The Design and Analysis of Experiments
+				STATISTICS 159 - Reproducible and Collaborative Data Science
+			Math 53 OR 54
+				STATISTICS 154
+				Math 128A
+		STATISTICS 131A
+
+	MATH 128A - MATH 128B
+	MATH 170A - MATH 170B
+	MATH 191
+
+	PB HLTH 142
+		Public Health (PB HLTH) 145
+
+	Data 8
+		STATISTICS 88
+		STATISTICS 89A

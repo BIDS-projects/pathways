@@ -1,0 +1,25 @@
+[' CS 61C', 'CS 61B']
+	Computer Science (COMPSCI) 186
+[' CS 70', ' MATH 55', 'CS 61A', 'CS 61B']
+	Computer Science (COMPSCI) 188
+[' CS 188', ' CS 70', 'MATH 53', 'MATH 54']
+	Computer Science (COMPSCI) 189
+[' CS 61C', ' CS 70', 'CS 61A', 'CS 61B']
+	Computer Science (COMPSCI) 194-16
+['MATH 1A']
+	Computer Science (COMPSCI) 61A
+['CS 61A']
+	Computer Science (COMPSCI) 61B
+Computer Science (COMPSCI) 61C
+['Sophomore mathematical maturity']
+	Computer Science (COMPSCI) 70
+['DATA 8']
+	Computer Science (COMPSCI) 88
+['CS 10']
+	Computer Science (COMPSCI) 9A
+['CS 61A']
+	Computer Science (COMPSCI) 9C
+['E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Engineering (ENGIN) 177
+Information (INFO) 155
+Mathematics (MATH) 98

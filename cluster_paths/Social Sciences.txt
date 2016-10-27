@@ -1,0 +1,5 @@
+['ANTHRO 2']
+	Anthropology (ANTHRO) 169A
+['ANTHRO 3']
+	Anthropology (ANTHRO) 169B
+Anthropology (ANTHRO) 169C

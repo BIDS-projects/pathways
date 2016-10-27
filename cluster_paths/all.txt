@@ -1,0 +1,332 @@
+
+Biological Science
+
+[' BIO 1A', 'MATH 54']
+	Bioengineering (BIO ENG) 131
+['MATH 53', 'MATH 54']
+	Bioengineering (BIO ENG) 143
+['DATA 8']
+	Environmental Science, Policy, and Management (ESPM) 88A
+['DATA 8']
+	Environmental Science, Policy, and Management (ESPM) 88B
+Environmental Science, Policy, and Management (ESPM) C177
+Geography (GEOG) 187
+[' MATH 55', 'MATH 53', 'MATH 54', 'STAT 2']
+	Mathematics (MATH) 127
+Molecular and Cell Biology (MCELLBI) 137
+[' CHEM 1A', ' CHEM 3A/3AL - CHEM 3B/3BL', ' PHYS 8A - PHYS 8B', 'BIO 1A/1AL']
+	Molecular and Cell Biology (MCELLBI) 166
+Molecular and Cell Biology (MCELLBI) C148
+[' NUSCTX 120', 'NUSCTX 110']
+	Nutritional Sciences and Toxicology (NUSCTX) 121
+['NUSCTX 103', 'STAT 2']
+	Nutritional Sciences and Toxicology (NUSCTX) 170
+Public Health (PB HLTH) 141
+Public Health (PB HLTH) 142
+	Public Health (PB HLTH) 145
+	Public Health (PB HLTH) 144A
+	Public Health (PB HLTH) 144B
+
+Economics & Business
+
+[' ECON 100B or ECON 101A', ' ECON 101B', 'ECON 100A', 'STAT 2']
+	Economics (ECON) 140
+	Economics (ECON) C142
+[' ECON 100B or ECON 101A', ' ECON 101B', 'ECON 100A', 'MATH 53', 'MATH 54', 'STAT 2']
+	Economics (ECON) 141
+	Economics (ECON) C142
+['ECON 100A', 'STAT 2']
+	Economics (ECON) 174
+['MATH 53', 'MATH 54']
+	Economics (ECON) C103
+['ECON 140 or ECON 141 or consent of instructor']
+	Economics (ECON) C142
+['ECON 1 or ECON 2']
+	Economics (ECON) C175
+['ECON 100A']
+	Environmental Economics and Policy (ENVECON) 131
+['ENVECON 1 or consent of instructor']
+	Environmental Economics and Policy (ENVECON) 140AC
+['STAT 2']
+	Environmental Economics and Policy (ENVECON) C118
+Environmental Economics and Policy (ENVECON) C180
+['MATH 1B', 'STAT 2']
+	Undergraduate Business Administration (UGBA) 104
+['UBGA 120A']
+	Undergraduate Business Administration (UGBA) 122
+['MATH 1B', 'STAT 2']
+	Undergraduate Business Administration (UGBA) 143
+['UGBA 106']
+	Undergraduate Business Administration (UGBA) 161
+
+Environmental Science
+
+Interdisciplinary Studies Field Major (ISF) C145
+
+Mathematics & Statistics
+
+['MATH 53', 'MATH 54']
+	Mathematics (MATH) 128A
+	Engineering (ENGIN) 180A
+['MATH 53', 'MATH 54']
+	Mathematics (MATH) 170
+	Engineering (ENGIN) 180A
+['Consent of instructor']
+	Mathematics (MATH) 191
+['MATH 1B']
+	Mathematics (MATH) 54
+	Bioengineering (BIO ENG) 131
+	Bioengineering (BIO ENG) 143
+	Mathematics (MATH) 127
+	Computer Science (COMPSCI) 189
+	Engineering (ENGIN) 177
+	Economics (ECON) 141
+		Economics (ECON) C142
+	Economics (ECON) C103
+	Engineering (ENGIN) 170
+	Engineering (ENGIN) 117
+	Industrial Engineering and Operations Research (IND ENG) 162
+	Industrial Engineering and Operations Research (IND ENG) 130
+	Mechanical Engineering (MEC ENG) C180
+	Mathematics (MATH) 170
+		Engineering (ENGIN) 180A
+	Mathematics (MATH) 128A
+		Engineering (ENGIN) 180A
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 154
+	Earth and Planetary Science (EPS) 104
+	Electrical Engineering (EL ENG) 127
+['PB HLTH 142']
+	Public Health (PB HLTH) 145
+['MATH 1A']
+	Statistics (STAT) 131A
+Statistics (STAT) 133
+	Statistics (STAT) 159
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 151A
+	Statistics (STAT) 152
+	Statistics (STAT) 158
+	Statistics (STAT) 153
+['MATH 1A', 'MATH 1B']
+	Statistics (STAT) 134
+	Statistics (STAT) 135
+		Statistics (STAT) 154
+		Statistics (STAT) 159
+		Statistics (STAT) 152
+		Statistics (STAT) 158
+		Statistics (STAT) 151A
+		Statistics (STAT) 153
+	Statistics (STAT) 158
+	Statistics (STAT) 152
+	Statistics (STAT) 159
+	Statistics (STAT) 153
+	Industrial Engineering and Operations Research (IND ENG) 131
+	Industrial Engineering and Operations Research (IND ENG) 165
+	Industrial Engineering and Operations Research (IND ENG) 130
+['MATH 54', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 135
+	Statistics (STAT) 154
+	Statistics (STAT) 159
+	Statistics (STAT) 152
+	Statistics (STAT) 158
+	Statistics (STAT) 151A
+	Statistics (STAT) 153
+[' STAT 135', 'STAT 133']
+	Statistics (STAT) 151A
+[' STAT 135', 'STAT 101', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 152
+[' STAT 135', 'STAT 101', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 153
+[' MATH 55', ' STAT 135', 'MATH 53', 'MATH 54']
+	Statistics (STAT) 154
+[' STAT 135', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 158
+[' STAT 135', 'STAT 133', 'STAT 134']
+	Statistics (STAT) 159
+['DATA 8']
+	Statistics (STAT) 88
+['DATA 8']
+	Statistics (STAT) 89A
+
+Computer Science
+
+[' CS 61C', 'CS 61B']
+	Computer Science (COMPSCI) 186
+[' CS 70', ' MATH 55', 'CS 61A', 'CS 61B']
+	Computer Science (COMPSCI) 188
+[' CS 188', ' CS 70', 'MATH 53', 'MATH 54']
+	Computer Science (COMPSCI) 189
+[' CS 61C', ' CS 70', 'CS 61A', 'CS 61B']
+	Computer Science (COMPSCI) 194-16
+['MATH 1A']
+	Computer Science (COMPSCI) 61A
+['CS 61A']
+	Computer Science (COMPSCI) 61B
+Computer Science (COMPSCI) 61C
+['Sophomore mathematical maturity']
+	Computer Science (COMPSCI) 70
+['DATA 8']
+	Computer Science (COMPSCI) 88
+['CS 10']
+	Computer Science (COMPSCI) 9A
+['CS 61A']
+	Computer Science (COMPSCI) 9C
+['E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Engineering (ENGIN) 177
+Information (INFO) 155
+Mathematics (MATH) 98
+
+Social Science
+
+[' COG SCI 1', ' CS 70', ' MATH 55', 'CS 61A', 'MATH 1A', 'MATH 1B']
+	Cognitive Science (COG SCI) 131
+['DATA 8']
+	Cognitive Science (COG SCI) 88
+['LINGUIS 100 or graduate student standing']
+	Cognitive Science (COG SCI) C140
+Demography (DEMOG) 110
+Demography (DEMOG) 5
+[' SOC 3', 'SOC 1']
+	Demography (DEMOG) C126
+Demography (DEMOG) C164
+['ECON 1 or ECON 2']
+	Demography (DEMOG) C175
+Environmental Design (ENV DES) 100
+Environmental Design (ENV DES) 4B
+[' declared Environmental Sciences majors.', 'Completion of upper division statistics']
+	Environmental Science, Policy, and Management (ESPM) 100
+Environmental Science, Policy, and Management (ESPM) 173
+['DATA 8']
+	Information (INFO) 88
+['DS H195 in following semester']
+	International and Area Studies (IAS) 102
+['DATA 8']
+	Letters and Science (L & S) 88-1
+['DATA 8']
+	Letters and Science (L & S) 88-2
+[' LINGUIS 115', 'LINGUIS 110']
+	Linguistics (LINGUIS) 140
+['LINGUIS 5 or LINGUIS 100']
+	Linguistics (LINGUIS) 141
+['CS 61A', 'LINGUIS 120']
+	Linguistics (LINGUIS) 158
+['PSYCH 1', 'STAT 2']
+	Psychology (PSYCH) 10
+['PSYCH 1', 'STAT 2']
+	Psychology (PSYCH) 101
+['MATH 1A', 'MATH 1B']
+	Public Health (PB HLTH) 140
+['PB HLTH 142']
+	Public Health (PB HLTH) 144A
+['PB HLTH 142']
+	Public Health (PB HLTH) 144B
+['SOC 5']
+	Sociology (SOCIOL) 105
+['SOC 5']
+	Sociology (SOCIOL) 106
+['SOC 5']
+	Sociology (SOCIOL) 108
+Sociology (SOCIOL) 5
+[' SOC 3', 'SOC 1']
+	Sociology (SOCIOL) 7
+
+Engineering
+
+['ARCH 150']
+	Architecture (ARCH) 154
+['Upper division standing']
+	Civil and Environmental Engineering (CIV ENG) 193
+['DATA 8']
+	Civil and Environmental Engineering (CIV ENG) 88
+['E 7']
+	Civil and Environmental Engineering (CIV ENG) 93
+[' EE 16B', 'EE 16A']
+	Electrical Engineering (EL ENG) 126
+['MATH 54']
+	Electrical Engineering (EL ENG) 127
+['EE 120 or consent of instructor']
+	Electrical Engineering (EL ENG) 129
+[' CS 70', 'EE20']
+	Electrical Engineering (EL ENG) 144
+['MATH 53', 'MATH 54']
+	Engineering (ENGIN) 117
+['Upper division standing']
+	Engineering (ENGIN) 120
+['E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Engineering (ENGIN) 170
+[' MATH 128A - MATH 128B', ' MATH 170A - MATH 170B', 'E 7', 'Upper division standing']
+	Engineering (ENGIN) 180A
+['MATH 1B']
+	Engineering (ENGIN) 7
+Industrial Engineering and Operations Research (IND ENG) 115
+['MATH 54', 'STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 130
+[' IEOR 165', 'IEOR 161', 'STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 131
+['MATH 53', 'MATH 54']
+	Industrial Engineering and Operations Research (IND ENG) 162
+['STAT 134']
+	Industrial Engineering and Operations Research (IND ENG) 165
+['MATH 1A', 'MATH 1B']
+	Industrial Engineering and Operations Research (IND ENG) 172
+[' E 28', ' ENG R1A', ' MEC ENG C85 or CIV ENG C30', 'E 10']
+	Mechanical Engineering (MEC ENG) 102A
+['ME C85']
+	Mechanical Engineering (MEC ENG) 120
+['CS 61A', 'E 7', 'MATH 53', 'MATH 54', 'Upper division standing']
+	Mechanical Engineering (MEC ENG) C180
+['NUC ENG 101']
+	Nuclear Engineering (NUC ENG) 130
+['Upper division standing']
+	Nuclear Engineering (NUC ENG) 175
+
+Social Sciences
+
+['ANTHRO 2']
+	Anthropology (ANTHRO) 169A
+['ANTHRO 3']
+	Anthropology (ANTHRO) 169B
+Anthropology (ANTHRO) 169C
+
+Humanities
+
+['STAT 2']
+	African American Studies (AFRICAM) 101
+American Studies (AMERSTD) C134
+['ASAMST 20A or 20B']
+	Asian American Studies Program (ASAMST) 165
+['DATA 8']
+	History (HIST) 88
+['MASSCOM 10']
+	Mass Communications (MASSCOM) 130
+['MASSCOM 10']
+	Media Studies (MEDIAST) 130
+['Upper division standing']
+	Middle Eastern Studies (M E STU) 102
+['NATAMST 71']
+	Native American Studies (NATAMST) 110
+['PHILOS 2', 'PHILOS 4']
+	Philosophy (PHILOS) 100
+['One course in philosophy.']
+	Philosophy (PHILOS) 141
+
+Physical Science
+
+['MATH 53', 'MATH 54']
+	Earth and Planetary Science (EPS) 104
+['MATH 1A']
+	Earth and Planetary Science (EPS) 109
+[' PHYS 7A', 'MATH 1A']
+	Physics (PHYSICS) 77

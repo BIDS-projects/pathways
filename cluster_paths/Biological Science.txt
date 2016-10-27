@@ -1,0 +1,25 @@
+[' BIO 1A', 'MATH 54']
+	Bioengineering (BIO ENG) 131
+['MATH 53', 'MATH 54']
+	Bioengineering (BIO ENG) 143
+['DATA 8']
+	Environmental Science, Policy, and Management (ESPM) 88A
+['DATA 8']
+	Environmental Science, Policy, and Management (ESPM) 88B
+Environmental Science, Policy, and Management (ESPM) C177
+Geography (GEOG) 187
+[' MATH 55', 'MATH 53', 'MATH 54', 'STAT 2']
+	Mathematics (MATH) 127
+Molecular and Cell Biology (MCELLBI) 137
+[' CHEM 1A', ' CHEM 3A/3AL - CHEM 3B/3BL', ' PHYS 8A - PHYS 8B', 'BIO 1A/1AL']
+	Molecular and Cell Biology (MCELLBI) 166
+Molecular and Cell Biology (MCELLBI) C148
+[' NUSCTX 120', 'NUSCTX 110']
+	Nutritional Sciences and Toxicology (NUSCTX) 121
+['NUSCTX 103', 'STAT 2']
+	Nutritional Sciences and Toxicology (NUSCTX) 170
+Public Health (PB HLTH) 141
+Public Health (PB HLTH) 142
+	Public Health (PB HLTH) 145
+	Public Health (PB HLTH) 144A
+	Public Health (PB HLTH) 144B

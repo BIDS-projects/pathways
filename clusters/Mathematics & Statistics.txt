@@ -1,18 +1,18 @@
 Mathematics & Statistics
+	Mathematics (MATH) 128A
+	Mathematics (MATH) 170
 	Mathematics (MATH) 191
 	Mathematics (MATH) 54
-	Mathematics (MATH) 170
-	Mathematics (MATH) 128A
 	Public Health (PB HLTH) 145
+	Statistics (STAT) 131A
 	Statistics (STAT) 133
 	Statistics (STAT) 134
 	Statistics (STAT) 135
-	Statistics (STAT) 89A
-	Statistics (STAT) 131A
 	Statistics (STAT) 151A
-	Statistics (STAT) 154
-	Statistics (STAT) 88
-	Statistics (STAT) 159
 	Statistics (STAT) 152
-	Statistics (STAT) 158
 	Statistics (STAT) 153
+	Statistics (STAT) 154
+	Statistics (STAT) 158
+	Statistics (STAT) 159
+	Statistics (STAT) 88
+	Statistics (STAT) 89A

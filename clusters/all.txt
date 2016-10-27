@@ -1,0 +1,139 @@
+Biological Science
+	Bioengineering (BIO ENG) 131
+	Bioengineering (BIO ENG) 143
+	Environmental Science, Policy, and Management (ESPM) 88A
+	Environmental Science, Policy, and Management (ESPM) 88B
+	Environmental Science, Policy, and Management (ESPM) C177
+	Geography (GEOG) 187
+	Mathematics (MATH) 127
+	Molecular and Cell Biology (MCELLBI) 137
+	Molecular and Cell Biology (MCELLBI) 166
+	Molecular and Cell Biology (MCELLBI) C148
+	Nutritional Sciences and Toxicology (NUSCTX) 121
+	Nutritional Sciences and Toxicology (NUSCTX) 170
+	Public Health (PB HLTH) 141
+	Public Health (PB HLTH) 142
+Computer Science
+	Computer Science (COMPSCI) 186
+	Computer Science (COMPSCI) 188
+	Computer Science (COMPSCI) 189
+	Computer Science (COMPSCI) 194-16
+	Computer Science (COMPSCI) 61A
+	Computer Science (COMPSCI) 61B
+	Computer Science (COMPSCI) 61C
+	Computer Science (COMPSCI) 70
+	Computer Science (COMPSCI) 88
+	Computer Science (COMPSCI) 9A
+	Computer Science (COMPSCI) 9C
+	Engineering (ENGIN) 177
+	Information (INFO) 155
+	Mathematics (MATH) 98
+Economics & Business
+	Economics (ECON) 140
+	Economics (ECON) 141
+	Economics (ECON) 174
+	Economics (ECON) C103
+	Economics (ECON) C142
+	Economics (ECON) C175
+	Environmental Economics and Policy (ENVECON) 131
+	Environmental Economics and Policy (ENVECON) 140AC
+	Environmental Economics and Policy (ENVECON) C118
+	Environmental Economics and Policy (ENVECON) C180
+	Undergraduate Business Administration (UGBA) 104
+	Undergraduate Business Administration (UGBA) 122
+	Undergraduate Business Administration (UGBA) 143
+	Undergraduate Business Administration (UGBA) 161
+Engineering
+	Architecture (ARCH) 154
+	Civil and Environmental Engineering (CIV ENG) 193
+	Civil and Environmental Engineering (CIV ENG) 88
+	Civil and Environmental Engineering (CIV ENG) 93
+	Electrical Engineering (EL ENG) 126
+	Electrical Engineering (EL ENG) 127
+	Electrical Engineering (EL ENG) 129
+	Electrical Engineering (EL ENG) 144
+	Engineering (ENGIN) 117
+	Engineering (ENGIN) 120
+	Engineering (ENGIN) 170
+	Engineering (ENGIN) 180A
+	Engineering (ENGIN) 7
+	Industrial Engineering and Operations Research (IND ENG) 115
+	Industrial Engineering and Operations Research (IND ENG) 130
+	Industrial Engineering and Operations Research (IND ENG) 131
+	Industrial Engineering and Operations Research (IND ENG) 162
+	Industrial Engineering and Operations Research (IND ENG) 165
+	Industrial Engineering and Operations Research (IND ENG) 172
+	Mechanical Engineering (MEC ENG) 102A
+	Mechanical Engineering (MEC ENG) 120
+	Mechanical Engineering (MEC ENG) C180
+	Nuclear Engineering (NUC ENG) 130
+	Nuclear Engineering (NUC ENG) 175
+Environmental Science
+	Interdisciplinary Studies Field Major (ISF) C145
+Humanities
+	African American Studies (AFRICAM) 101
+	American Studies (AMERSTD) C134
+	Asian American Studies Program (ASAMST) 165
+	History (HIST) 88
+	Mass Communications (MASSCOM) 130
+	Media Studies (MEDIAST) 130
+	Middle Eastern Studies (M E STU) 102
+	Native American Studies (NATAMST) 110
+	Philosophy (PHILOS) 100
+	Philosophy (PHILOS) 141
+Mathematics & Statistics
+	Mathematics (MATH) 128A
+	Mathematics (MATH) 170
+	Mathematics (MATH) 191
+	Mathematics (MATH) 54
+	Public Health (PB HLTH) 145
+	Statistics (STAT) 131A
+	Statistics (STAT) 133
+	Statistics (STAT) 134
+	Statistics (STAT) 135
+	Statistics (STAT) 151A
+	Statistics (STAT) 152
+	Statistics (STAT) 153
+	Statistics (STAT) 154
+	Statistics (STAT) 158
+	Statistics (STAT) 159
+	Statistics (STAT) 88
+	Statistics (STAT) 89A
+Physical Science
+	Earth and Planetary Science (EPS) 104
+	Earth and Planetary Science (EPS) 109
+	Physics (PHYSICS) 77
+Social Science
+	Cognitive Science (COG SCI) 131
+	Cognitive Science (COG SCI) 88
+	Cognitive Science (COG SCI) C140
+	Demography (DEMOG) 110
+	Demography (DEMOG) 5
+	Demography (DEMOG) C126
+	Demography (DEMOG) C164
+	Demography (DEMOG) C175
+	Environmental Design (ENV DES) 100
+	Environmental Design (ENV DES) 4B
+	Environmental Science, Policy, and Management (ESPM) 100
+	Environmental Science, Policy, and Management (ESPM) 173
+	Information (INFO) 88
+	International and Area Studies (IAS) 102
+	Letters and Science (L & S) 88-1
+	Letters and Science (L & S) 88-2
+	Linguistics (LINGUIS) 140
+	Linguistics (LINGUIS) 141
+	Linguistics (LINGUIS) 158
+	Psychology (PSYCH) 10
+	Psychology (PSYCH) 101
+	Public Health (PB HLTH) 140
+	Public Health (PB HLTH) 144A
+	Public Health (PB HLTH) 144B
+	Sociology (SOCIOL) 105
+	Sociology (SOCIOL) 106
+	Sociology (SOCIOL) 108
+	Sociology (SOCIOL) 5
+	Sociology (SOCIOL) 7
+Social Sciences
+	Anthropology (ANTHRO) 169A
+	Anthropology (ANTHRO) 169B
+	Anthropology (ANTHRO) 169C
