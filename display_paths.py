@@ -18,5 +18,11 @@ with open("./cluster_paths/all.txt", "r") as read_paths:
 			G.add_edge(current_graph[indents],current_graph[indents - 1])
 		G.add_node(line, course=line)
 
+nx.draw_circular(G)
+plt.show()
+
+nx.draw_random(G)
+plt.show()
+
 nx.draw(G)
 plt.show()
